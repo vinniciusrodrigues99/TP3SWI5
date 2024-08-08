@@ -11,7 +11,7 @@
         <h2>
         	<a href="/Bookstore/BookForm.jsp">Add New Book</a>
         	&nbsp;&nbsp;&nbsp;
-        	<a href="/Bookstore/BookList.jsp">List All Books</a>
+        	<a href="/Bookstore/list">List All Books</a>
         	
         </h2>
 	</center>
